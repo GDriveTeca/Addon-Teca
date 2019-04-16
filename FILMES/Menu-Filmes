@@ -3,6 +3,14 @@
 <channels>
 
 <channel>
+<name>[B][COLOR white]FILMES - LANÇAMENTOS[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Lan%C3%A7amentos</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][COLOR white]FILMES - ANIMAÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Anima%C3%A7%C3%A3o</externallink>
@@ -14,6 +22,46 @@
 <name>[B][COLOR white]FILMES - AÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-A%C3%A7%C3%A3o</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]FILMES - CLÁSSICOS[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Cl%C3%A1ssicos</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR white] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
 <fanart></fanart>
 <info></info>
 </channel>
