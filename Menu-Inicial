@@ -5,40 +5,40 @@
 
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Filmes.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/MENU-FILMES</externallink>
-<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Filmes-fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Filmes-fanart.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Series.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/SERIES/MENU-SERIES</externallink>
-<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Series-fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Series-fanart.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Animes.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Animes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/ANIMES/MENU-ANIMES</externallink>
-<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Animes-fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Animes-fanart.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Desenhos.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Desenhos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/DESENHOS/MENU-DESENHOS</externallink>
-<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Desenhos-fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Desenhos-fanart.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
 <name>[B][COLOR red]●[/COLOR] [COLOR white]SHOWS[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Shows.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Shows.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/SHOWS/MENU-SHOWS</externallink>
-<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU/MENU-INICIAL/Shows-fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Shows-fanart.jpg</fanart>
 <info></info>
 </channel>
