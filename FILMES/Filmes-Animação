@@ -5,3 +5,11 @@
 <fanart></fanart>
 <info>Sinopse:</info>
 </item>
+
+<item>
+<title>[B][COLOR white][/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sinopse:</info>
+</item>
