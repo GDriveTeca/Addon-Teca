@@ -1,0 +1,19 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR lime][B]INTERNACIONAIS[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]NACIONAIS[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
