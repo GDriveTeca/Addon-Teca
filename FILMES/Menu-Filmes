@@ -19,6 +19,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR white]FILMES - AVENTURA[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Aventura</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[B][COLOR white]FILMES - AÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-A%C3%A7%C3%A3o</externallink>
@@ -38,14 +46,6 @@
 <name>[B][COLOR white]FILMES - COMÉDIA[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Com%C3%A9dia</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[B][COLOR white] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
 <fanart></fanart>
 <info></info>
 </channel>
