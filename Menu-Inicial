@@ -4,7 +4,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Menu-Filmes</externallink>
 <fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Filmes-fanart.jpg</fanart>
@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/SERIES/Menu-Series</externallink>
 <fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Series-fanart.jpg</fanart>
@@ -20,7 +20,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Animes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/ANIMES/Menu-Animes</externallink>
 <fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Animes-fanart.jpg</fanart>
@@ -28,7 +28,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Desenhos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/DESENHOS/Menu-Desenhos</externallink>
 <fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Desenhos-fanart.jpg</fanart>
@@ -36,7 +36,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR white]SHOWS[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SHOWS[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Shows.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/SHOWS/Menu-Shows</externallink>
 <fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Shows-fanart.jpg</fanart>
