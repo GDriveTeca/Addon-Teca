@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR white]FILMES - LANÇAMENTOS[/COLOR][/B]</name>
+<name>[B][COLOR gold]FILMES - [COLOR white]LANÇAMENTOS[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Lan%C3%A7amentos</externallink>
 <fanart></fanart>
@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES - ANIMAÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR gold]FILMES - [COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Anima%C3%A7%C3%A3o</externallink>
 <fanart></fanart>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES - AVENTURA[/COLOR][/B]</name>
+<name>[B][COLOR gold]FILMES - [COLOR white]AVENTURA[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Aventura</externallink>
 <fanart></fanart>
@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES - AÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR gold]FILMES - [COLOR white]AÇÃO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-A%C3%A7%C3%A3o</externallink>
 <fanart></fanart>
@@ -35,7 +35,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES - CLÁSSICOS[/COLOR][/B]</name>
+<name>[B][COLOR gold]FILMES - [COLOR white]CLÁSSICOS[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Cl%C3%A1ssicos</externallink>
 <fanart></fanart>
@@ -43,7 +43,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES - COMÉDIA[/COLOR][/B]</name>
+<name>[B][COLOR gold]FILMES - [COLOR white]COMÉDIA[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Filmes-Com%C3%A9dia</externallink>
 <fanart></fanart>
@@ -51,7 +51,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
+<name>[B][COLOR gold] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
@@ -59,7 +59,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
+<name>[B][COLOR gold] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
@@ -67,7 +67,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
+<name>[B][COLOR gold] NOME DA CATEGORIA DO FILME AQUI [/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
