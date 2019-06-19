@@ -4,7 +4,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]\00BB[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/TV/Menu-Tv</externallink>
 <fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/TV-fanart.jpg</fanart>
@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]»[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/GDriveTeca/Addon-Teca/master/FILMES/Menu-Filmes</externallink>
 <fanart>https://raw.githubusercontent.com/GDriveTeca/LOGOS/master/MENU-INICIAL/Filmes-fanart.jpg</fanart>
